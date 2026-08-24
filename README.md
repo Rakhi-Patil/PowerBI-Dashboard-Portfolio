@@ -304,7 +304,7 @@ PowerBI-Dashboard-Portfolio/
 │
 ├── Airline-Performance/
 │   ├── Airline_Performance.pbix
-│   ├── airline_dataset.csv
+│   ├── Airline_Dataset.csv
 │   └── screenshot.png
 │
 ├── Superstore-Sales/
@@ -314,7 +314,7 @@ PowerBI-Dashboard-Portfolio/
 │
 ├── Olympic-Analysis/
 │   ├── Olympic_Analysis.pbix
-│   ├── olympic_dataset.csv
+│   ├── Olympic-Athletes.xlsx
 │   └── screenshot.png
 │
 └── Student-Performance/
